@@ -12,3 +12,4 @@ _Secret_
 6. 💬 Share the link with the community in #creator-program-link on Discord. (optional)
 
 ## 🟨 You will unlock:
+- ✔️ Earn 150–750 points (150 base + quality bonus up to x5)
