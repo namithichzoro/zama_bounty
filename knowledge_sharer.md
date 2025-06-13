@@ -10,3 +10,5 @@ _Secret_
 3. 🎬 Choose a format — blog, video, tutorial, slides, demo, infographic, podcast, etc.
 5. 🔗 Submit the link via the dedicated Submission Form.
 6. 💬 Share the link with the community in #creator-program-link on Discord. (optional)
+
+## 🟨 You will unlock:
