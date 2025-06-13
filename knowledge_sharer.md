@@ -9,3 +9,4 @@ _Secret_
 2. 👥 Know your audience — devs, data scientists, product folks, or a general crypto audience.
 3. 🎬 Choose a format — blog, video, tutorial, slides, demo, infographic, podcast, etc.
 5. 🔗 Submit the link via the dedicated Submission Form.
+6. 💬 Share the link with the community in #creator-program-link on Discord. (optional)
