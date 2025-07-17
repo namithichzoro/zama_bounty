@@ -24,3 +24,6 @@ All submissions are evaluated based on the quality of the code, and more importa
 
 👉 Register
 Step 1: Fill out the form. You'll receive a confirmation email with submission link.
+
+Step 2: Work on the challenge, use GitHub for versioning.
+Step 3: Submit your project via the provided submission portal.
