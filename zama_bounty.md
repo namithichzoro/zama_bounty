@@ -13,3 +13,7 @@ Leaderboard
 Previous Winning Solutions
 Support
 FAQ
+
+💰 Season 8 Bounties
+Each season, we introduce bounties targeting a specific Zama library.
+All submissions are evaluated based on the quality of the code, and more importantly the speed performance.
