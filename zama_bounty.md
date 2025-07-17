@@ -40,3 +40,7 @@ A: Each season lasts several weeks or months.
 🥇Best submission: up to ,000
 🥈Second-best: up to ,000
 🥉Third-best: up to ,000
+
+✅ Support
+Email: bounty@zama.ai
+Discord: discord.gg/zama
