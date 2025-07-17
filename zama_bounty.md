@@ -32,3 +32,7 @@ Step 3: Submit your project via the provided submission portal.
 - 1st: JoseSK999 – 6,750
 - 2nd: Soptq – 4,000
 - 3rd: kroist – 3,000
+
+❓FAQ
+Q: How often is bounty list updated?
+A: Each season lasts several weeks or months.
