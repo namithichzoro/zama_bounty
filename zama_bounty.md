@@ -21,3 +21,6 @@ All submissions are evaluated based on the quality of the code, and more importa
 - Fixed-point Arithmetic API Using TFHE-rs – 0,000
 - FHE-based Aging Pace Estimation ML Model – 0,000
 - Confidential Benchmarking System On-chain – 0,000
+
+👉 Register
+Step 1: Fill out the form. You'll receive a confirmation email with submission link.
