@@ -36,3 +36,7 @@ Step 3: Submit your project via the provided submission portal.
 ❓FAQ
 Q: How often is bounty list updated?
 A: Each season lasts several weeks or months.
+
+🥇Best submission: up to ,000
+🥈Second-best: up to ,000
+🥉Third-best: up to ,000
