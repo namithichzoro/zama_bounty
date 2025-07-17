@@ -17,3 +17,7 @@ FAQ
 💰 Season 8 Bounties
 Each season, we introduce bounties targeting a specific Zama library.
 All submissions are evaluated based on the quality of the code, and more importantly the speed performance.
+
+- Fixed-point Arithmetic API Using TFHE-rs – 0,000
+- FHE-based Aging Pace Estimation ML Model – 0,000
+- Confidential Benchmarking System On-chain – 0,000
