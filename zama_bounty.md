@@ -27,3 +27,8 @@ Step 1: Fill out the form. You'll receive a confirmation email with submission l
 
 Step 2: Work on the challenge, use GitHub for versioning.
 Step 3: Submit your project via the provided submission portal.
+
+🏆 Leaderboard
+- 1st: JoseSK999 – 6,750
+- 2nd: Soptq – 4,000
+- 3rd: kroist – 3,000
